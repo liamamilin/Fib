@@ -7,7 +7,7 @@
 #'  Fibonacci(10)
 
 
-Fibonacci = function(n){
+Fibonacci = function(x){
   if (x ==1 || x == 2){
     return(1)
   }else{
